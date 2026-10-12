@@ -256,7 +256,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "test.kicad_pro",
+    "filename": "ADCS_Magnetorquer_Board.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -424,18 +424,30 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "test.kicad_sch",
-        "name": "test",
+        "filename": "ADCS_Magnetorquer_Board.kicad_sch",
+        "name": "ADCS_Magnetorquer_Board",
         "uuid": "ad8674f1-23de-4bd4-9414-642ec663a6a4"
       }
     ],
-    "used_designators": "C1-4,#PWR1-8,R1-10,Q1-2,U1-2",
+    "used_designators": "C1-4,#PWR1-9,R1-10,Q1-2,U1-8",
     "variants": []
   },
   "sheets": [
     [
       "ad8674f1-23de-4bd4-9414-642ec663a6a4",
-      "test"
+      "ADCS_Magnetorquer_Board"
+    ],
+    [
+      "9fa4302e-2582-48ee-9447-cdb043463b27",
+      "Sensing"
+    ],
+    [
+      "9e167a19-6ada-4d37-b2dd-73563b0316af",
+      "Processing"
+    ],
+    [
+      "72dfb1d9-9a43-4348-a5c9-5e71493123b0",
+      "Actuator"
     ]
   ],
   "text_variables": {},
