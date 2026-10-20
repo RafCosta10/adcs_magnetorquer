@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "10.0")
 	(uuid "ad8674f1-23de-4bd4-9414-642ec663a6a4")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "Magnetorquer Board")
 	)
